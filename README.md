@@ -4,7 +4,8 @@
 
 - ProjFS comes as optional feature on Windows. It must be enabled: Programs and Features -> Turn Windows features on or off -> Windows Projected File System
 
-- At this point the code fails to assign virtualization isntance id, as a target directory has a reparse point. TODO: How to remove reparse point from a target directory?
+- At this point the code fails to assign virtualization instance id, as a target directory has a reparse point.
+  - TODO: How to remove reparse point from a target directory?
 
 # Schell related functions
 
